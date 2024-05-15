@@ -9,3 +9,4 @@
 #### B. [🤝 작성한 코드 검토 요청 (PR)](https://github.com/T-lab-java-king/tlab-java-core/pulls)
 #### C. [📅 일정표](https://github.com/T-lab-java-king/tlab-java-core/wiki/%08%EC%9D%BC%EC%A0%95%ED%91%9C)
 #### D. [🙏 질문 및 제안사항 제출](https://github.com/T-lab-java-king/tlab-java-core/discussions)
+#### E. [⭐ T-LAB 활동 요령](https://github.com/T-lab-java-king/tlab-java-core/wiki/T%E2%80%90lab-%ED%99%9C%EB%8F%99-%EC%9A%94%EB%A0%B9)
